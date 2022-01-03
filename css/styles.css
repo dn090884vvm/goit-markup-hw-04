@@ -161,7 +161,7 @@ ul {
 }
 .nav-menu {
   display: flex;
-  font-size: 14px;
+  /* font-size: 14px; */
 }
 
 .nav-menu-item:not(:last-child) {
