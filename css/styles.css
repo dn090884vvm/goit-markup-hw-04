@@ -234,7 +234,6 @@ ul {
   background-repeat: no-repeat;
   background-position: center;
   max-width: 1600px;
-  height: 600px;
 
   background-color: var(--dark-bg-color);
   /* align-items: center; */
@@ -274,7 +273,7 @@ ul {
 
   color: var(--primary-white-color);
   background-color: var(--accent-color);
-
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   cursor: pointer;
 }
 
